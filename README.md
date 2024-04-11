@@ -1,6 +1,8 @@
 # Weather_Dashboard
   ## A weather dashboard with the functionality of being able to see the forecast of the entered city for the next 5 days. In addition, it presents the last 5 cities in which you searched for.
 
+  link to deployed website: https://lrive004.github.io/weather-dashboard/
+
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
